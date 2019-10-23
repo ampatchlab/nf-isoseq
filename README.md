@@ -4,7 +4,7 @@
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A519.10.0-brightgreen.svg)](https://www.nextflow.io/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-IsoSeq v3.1 RSII Nextflow pipeline
+[IsoSeq v3.1](https://github.com/PacificBiosciences/IsoSeq/blob/master/README_v3.1.md) RSII Nextflow pipeline
 
 ## Usage
 
